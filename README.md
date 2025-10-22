@@ -3,7 +3,7 @@
 
 **Link para o Dashboard Interativo (Streamlit Cloud):**
 
-👉 [**[COLE SEU LINK AQUI]**](https://pizzariaperformancedashboard-f29pdqr5djcmyjpncq87et.streamlit.app/) 👈
+👉 [**[https://pizzariaperformancedashboard-f29pdqr5djcmyjpncq87et.streamlit.app/]**](https://pizzariaperformancedashboard-f29pdqr5djcmyjpncq87et.streamlit.app/) 👈
 
 ## 🎯 Visão Geral do Projeto
 
